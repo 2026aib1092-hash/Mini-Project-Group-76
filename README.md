@@ -1,4 +1,4 @@
-# Mini-Project-Group-76
+<img width="704" height="130" alt="image" src="https://github.com/user-attachments/assets/d11f9ede-9759-481a-96ee-8924dbef2bda" /># Mini-Project-Group-76
 A collaborative Machine Learning project using Multiple Linear Regression to predict product sales based on advertising budgets across TV, Radio, and Newspaper channels.
 ## Team-Description
 | Name             | Github Username   | Role               |
@@ -33,12 +33,47 @@ Mini-Project-Group-76/
 └── Requirements.md
 
 File Description
-Advertising Budget and Sales.csv - This is the dataset for this project that the ML model uses to learn relationship between advertising expenditure and product sales.
-Group76_Advertising_Sales_Prediction.pptx - Project presentation document containing the project details.
-ML_model_prediction.ipynb - Contains code for the ML model development, training, and prediction process.
-Readme.md - Provides an overview of the project, team details, project structure, setup instructions, and execution steps.
-Requirements.txt - Contains information about the project requirements and dependencies.
+
+- Advertising Budget and Sales.csv - This is the dataset for this project that the ML model uses to learn relationship between advertising expenditure and product sales.
+- Group76_Advertising_Sales_Prediction.pptx - Project presentation document containing the project details.
+- ML_model_prediction.ipynb - Contains code for the ML model development, training, and prediction process.
+- Readme.md - Provides an overview of the project, team details, project structure, setup instructions, and execution steps.
+- Requirements.txt - Contains information about the project requirements and dependencies.
 
 ## Requirements
 - Python version: [ 3.x ]
-- Required libraries: See requirements.txt 
+- Required libraries: See requirements.txt
+
+## Setup Instruction
+1. Download required python version. Also clone/download this Repository.
+2. Create a folder and place all the files mentioned in project structure in this folder. 
+3. Open terminal in the same folder and install libraries listed in requirements.txt using terminal command: py -m pip install [____]
+
+## How to run
+1. Open ML_model_prediction.ipynb file in Jupyter notebook in Visual Studio Code.
+2. Make sure the dataset Advertising Budget and Sales.csv is available in the project folder.
+3. Now run all the cells sequentially or simply click on Run All.
+4. The model will execute the data preprocessing, model training, prediction, and evaluation processes.
+5. Observe the generated predictions, graphs, and model evaluation results.
+
+## Results
+- Dataset Loading: Loads and displays the advertising dataset.
+- Data Preprocessing: Handles missing values and selects relevant features.
+- Model Training: Trains a Multiple Linear Regression model using an 80:20 training-testing split.
+- Model Evaluation: Calculates Accuracy, Precision, Recall, F1-score, MSE, RMSE, MAE and R² score.
+- Custom Prediction: Estimates product sales using custom advertising budgets.
+- Data Visualization: Generates graphs showing TV advertising budget versus sales, radio advertising budget versus sales, newspaper advertising budget versus sales, actual sales versus predicted sales.
+<img width="1747" height="582" alt="Screenshot 2026-11-09 180210" src="https://github.com/user-attachments/assets/d46dcbe2-d4b0-4ad1-a34d-ab31c01fbf93" />
+<img width="812" height="617" alt="Screenshot 2026-11-09 180223" src="https://github.com/user-attachments/assets/2e50c5ce-f3ab-4967-87d0-4ef0dd1872f6" />
+
+## Presentation and Video
+- Presentation: Group76_Advertising_Sales_Prediction.pdf
+- Project video:
+
+## Ai use disclosure
+AI tools were used for code assistance and to prepare these slides.
+
+Slides were then edited by Vedansh.
+
+Results were updated from the final notebook run.
+
