@@ -1,4 +1,4 @@
-<img width="704" height="130" alt="image" src="https://github.com/user-attachments/assets/d11f9ede-9759-481a-96ee-8924dbef2bda" /># Mini-Project-Group-76
+# Mini-Project-Group-76
 A collaborative Machine Learning project using Multiple Linear Regression to predict product sales based on advertising budgets across TV, Radio, and Newspaper channels.
 ## Team-Description
 | Name             | Github Username   | Role               |
