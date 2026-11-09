@@ -71,9 +71,6 @@ File Description
 - Project video:
 
 ## Ai use disclosure
-AI tools were used for code assistance and to prepare these slides.
+Ai tools were used for assistance with coding, to debug the code and help with documentation.
 
-Slides were then edited by Vedansh.
-
-Results were updated from the final notebook run.
-
+Also, Ai used for learning to use different functions of Github.
