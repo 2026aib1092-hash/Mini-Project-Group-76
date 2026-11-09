@@ -9,13 +9,13 @@
 
 The following libraries are required to run this project:
 
-| Library | Purpose |
-|---|---|
-| NumPy | Numerical operations and sample data generation |
-| Pandas | Loading and processing the advertising dataset |
-| Matplotlib | Creating graphs and visualizations |
-| Scikit-learn | Training and evaluating the Linear Regression model |
-| OS | Handling file paths and directories (built-in Python module) |
+Library : Purpose 
+
+NumPy : Numerical operations and sample data generation
+Pandas : Loading and processing the advertising dataset
+Matplotlib : Creating graphs and visualizations
+Scikit-learn : Training and evaluating the Linear Regression model 
+OS : Handling file paths and directories (built-in Python module)
 
 ### Installation
 
@@ -24,6 +24,4 @@ The following libraries are required to run this project:
 
    py -m pip install numpy / pandas/ matplotlib / scikit-learn
 
-3. Make sure the dataset file is available in the project directory:
-
-   Advertising Budget and Sales.csv
+3. Make sure the dataset file (Advertising Budget and Sales.csv) is downloaded in the same file as ML_model_prediction.ipynb .
