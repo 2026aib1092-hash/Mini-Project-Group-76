@@ -19,3 +19,26 @@ The project aims to:
 - Build a machine learning model to predict product sales.
 
 This project demonstrates how Data Science and Machine Learning can help businesses make better advertising and marketing decisions.
+## Project Structure
+Mini-Project-Group-76/
+│
+├── Advertising Budget and Sales.csv
+│
+├── Group76_Advertising_Sales_Prediction.pdf
+│
+├── ML_model_prediction.ipynb
+│
+├── README.md
+│
+└── Requirements.md
+
+File Description
+Advertising Budget and Sales.csv - This is the dataset for this project that the ML model uses to learn relationship between advertising expenditure and product sales.
+Group76_Advertising_Sales_Prediction.pptx - Project presentation document containing the project details.
+ML_model_prediction.ipynb - Contains code for the ML model development, training, and prediction process.
+Readme.md - Provides an overview of the project, team details, project structure, setup instructions, and execution steps.
+Requirements.txt - Contains information about the project requirements and dependencies.
+
+## Requirements
+- Python version: [ 3.x ]
+- Required libraries: See requirements.txt 
