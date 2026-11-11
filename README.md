@@ -74,3 +74,6 @@ File Description
 Ai tools were used for assistance with coding, to debug the code and help with documentation.
 
 Also, Ai used for learning to use different functions of Github.
+#Project Video
+Watch our mini project demonstration video:
+(https://drive.google.com/file/d/1W_DsEf3DMQ84A-53WgsdYwp8i24tuW8I/view?usp=drivesdk)
